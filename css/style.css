@@ -1,0 +1,124 @@
+body{
+	background-color: black
+}
+
+header {
+	width: 50%;
+	height: 150px;
+	font-size: 35px;
+	color: white;
+	font-family: 'Russo One', sans-serif;
+}
+
+.box1 {
+	width: 750px;
+	height: 600px;
+	background-color: white;
+	margin: left;
+	float: left;
+	margin: 20px;
+}
+
+h1 {
+	font-size: 30px;
+	margin-bottom: 20px;
+	font-family: 'Fredoka One', cursive;
+}
+
+p {
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.box2 {
+	width: 550px;
+	height: 550px;
+	background-color: white;
+	float: left;
+	background-image: url(../images/ps3.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.box3 {
+	width: 750px;
+	height: 600px;
+	background-color: white;
+	margin: left;
+	float: left;
+	margin: 20px;
+}
+
+.box4 {
+	width: 550px;
+	height: 500px;
+	background-color: white;
+	float: left;
+	background-image: url(../images/xbox360.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.box5 {
+	width: 750px;
+	height: 600px;
+	background-color: white;
+	margin: left;
+	float: left;
+	margin: 20px;
+}
+
+.box6 {
+	width: 550px;
+	height: 475px;
+	background-color: white;
+	float: left;
+	background-image: url(../images/wii.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.box7 {
+	width: 750px;
+	height: 600px;
+	background-color: white;
+	margin: left;
+	float: left;
+	margin: 20px;
+}
+
+.box8 {
+	width: 550px;
+	height: 475px;
+	background-color: white;
+	float: left;
+	background-image: url(../images/3ds.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.list {
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+}
+
+.box9 {
+	width: 750px;
+	height: 600px;
+	background-color: white;
+	margin: left;
+	float: left;
+	margin: 20px;
+}
+
+.box10 {
+	width: 550px;
+	height: 475px;
+	background-color: white;
+	float: left;
+	background-image: url(../images/wiiu.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
